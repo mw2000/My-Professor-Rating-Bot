@@ -1,15 +1,12 @@
 [[source]]
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
 
 [packages]
 requests = "2.18.4"
 discord.py = "0.16.12"
 beautifulsoup4 = "4.6.0"
 discord = "0.0.2"
-
-[dev-packages]
 
 [requires]
 python_version = "3.6"
